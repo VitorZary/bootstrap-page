@@ -1,7 +1,7 @@
 # bootstrap-page
 Curso de bootstrap oferecido gratuitamente através do youtube por Diego Mariano
 
-### Git hub Pages:
+### Link para preview no Git hub Pages:
 https://vitorzary.github.io/bootstrap-page/
 
 ### Informações
